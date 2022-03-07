@@ -1,0 +1,1 @@
+{"uuid":"3d01f2bd-126a-425c-b1ce-dd6a324950aa","name":"AmazonApp","children":["f65fd237-3db2-4b7c-b583-fb65f983d313"],"befores":[{"name":"intialize","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1646646837527,"stop":1646646855034}],"afters":[],"start":1646646837485,"stop":1646646862645}
